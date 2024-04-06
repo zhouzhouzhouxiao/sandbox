@@ -18,3 +18,6 @@ Install Docker. If you haven't installed Docker yet, you can download and instal
    `g++ main.cpp -o main`
 7. Finally, again inside the Docker container's command line interface, run your C++ program. Use the following command:
    `./main`
+
+## another function-scrapsecurity
+methord of use is same as thesandbox for cpp,but the file is docker_scrap
